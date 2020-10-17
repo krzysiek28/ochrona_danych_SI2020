@@ -1,4 +1,4 @@
-package com.od.cryptography.common;
+package com.od.cryptography.common.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
